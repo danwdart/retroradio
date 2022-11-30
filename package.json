@@ -39,19 +39,19 @@
   },
   "homepage": "https://github.com/danwdart/retroradio#readme",
   "dependencies": {
-    "bootstrap": "^5.2.2",
+    "bootstrap": "^5.2.3",
     "express": "^5.0.0-beta.1",
     "font-awesome": "^4.7.0",
     "hamlibjs": "^2.2.0",
     "jquery": "^3.6.1",
-    "snyk": "^1.1056.0",
-    "socket.io": "^4.5.3",
-    "socket.io-client": "^4.5.3"
+    "snyk": "^1.1064.0",
+    "socket.io": "^4.5.4",
+    "socket.io-client": "^4.5.4"
   },
   "devDependencies": {
     "@babel/cli": "7.19.3",
-    "@babel/core": "7.20.2",
-    "@babel/node": "7.20.2",
+    "@babel/core": "7.20.5",
+    "@babel/node": "7.20.5",
     "@babel/plugin-transform-modules-commonjs": "7.19.6"
   },
   "snyk": true
